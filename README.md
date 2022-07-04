@@ -1,6 +1,4 @@
 # 💫 About Me:
-<p align="right">
-<img src="(https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif)" width="250"/></p>
 🔭 I’m currently working on Python<br>🌱 I’m currently learning Webdev, Android App dev <br>👯 I’m looking to explore something new everyday :)<br>💬 Ask me about 🤷‍<br>⚡ Fun fact I think I am funny XD
 
 ## 🌐 Socials:
