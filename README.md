@@ -1,6 +1,7 @@
 # 💫 About Me:
+<p align="right">
+<img src="(https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif)" width="250"/></p>
 🔭 I’m currently working on Python<br>🌱 I’m currently learning Webdev, Android App dev <br>👯 I’m looking to explore something new everyday :)<br>💬 Ask me about 🤷‍<br>⚡ Fun fact I think I am funny XD
-
 
 ## 🌐 Socials:
 <p align="left">
@@ -26,10 +27,12 @@
 [![Suhana's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Suhana3003&&theme=xcode)](https://github.com/suhana3003)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</p>
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<p align="center">
+<img src="https://random-memer.herokuapp.com/" width="512px"/></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Suhana3003&icon=3&color=7)](https://visitcount.itsvg.in)
