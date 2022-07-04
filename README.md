@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Welcome%20to%20my%20page!)
 # 💫 About Me:
 🔭 I’m currently working on Python<br>🌱 I’m currently learning Webdev, Android App dev <br>👯 I’m looking to explore something new everyday :)<br>💬 Ask me about 🤷‍<br>⚡ Fun fact I think I am funny XD
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
@@ -36,3 +36,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Suhana3003&icon=3&color=7)](https://visitcount.itsvg.in)
+![footer](https://capsule-render.vercel.app/api?section=footer)
