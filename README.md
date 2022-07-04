@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Python<br>🌱 I’m currently learning Webdev, Android App dev <br>👯 I’m looking to explore something new everyday :)<br>💬 Ask me about 🤷‍<br>⚡ Fun fact I think I am funny XD
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ## 🌐 Socials:
 <p align="left">
@@ -25,8 +26,8 @@
 [![Suhana's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Suhana3003&&theme=xcode)](https://github.com/suhana3003)
 
 ### ✍️ Random Dev Quote
-<p align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
 <p align="center">
