@@ -23,6 +23,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Suhana3003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Suhana's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Suhana3003&&theme=xcode)](https://github.com/suhana3003)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
