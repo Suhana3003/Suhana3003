@@ -54,7 +54,6 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Suhana3003&theme=radical&margin-w=4)
 
 [![Suhana's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Suhana3003&theme=xcode)](https://github.com/Suhana3003)
 
@@ -70,8 +69,3 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 </p>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=Suhana3003&icon=3&color=7)](https://visitcount.itsvg.in)
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
